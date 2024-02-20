@@ -1,4 +1,4 @@
-module github.com/masterzen/winrm
+module github.com/pentalab00/winrm
 
 go 1.21
 
